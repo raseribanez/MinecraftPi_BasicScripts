@@ -1,7 +1,7 @@
 To use these minecraft programs:
 
 TO FOLLOW THIS GUIDE EXACTLY, you should extract the zip file i sent and copy/paste 
-the "minecraft-pi" folder to the Raspberry Pi Desktop folder.
+the "BasicMcpiScripts" folder to the Raspberry Pi Desktop folder.
 
 
 
