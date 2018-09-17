@@ -11,7 +11,7 @@ the "minecraft-pi" folder to the Raspberry Pi Desktop folder.
 4. Open a command terminal (taskbar icon), or  [CTRL]+[ALT]+[T]
 5. Type "cd Desktop"       (change directory to desktop)
 6. Type "ls"               (show the files within)
-7. Type "cd basic-mcpi-scripts"  (now you are in the python - minecraft programs folder)
+7. Type "cd BasicMcpiScripts-master"  (now you are in the python - minecraft programs folder)
 8. Type "ls"               (to see the names of the programs)
 9. Type "python template.py" (to test the connection - you should see a message in minecraft)
 
