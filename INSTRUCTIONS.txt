@@ -1,0 +1,58 @@
+To use these minecraft programs:
+
+TO FOLLOW THIS GUIDE EXACTLY, you should extract the zip file i sent and copy/paste 
+the "minecraft-pi" folder to the Raspberry Pi Desktop folder.
+
+
+
+1. Run Minecraft Pi as usual
+2. Create a new world amd let it load
+3. Press [TAB] to regain control of your mouse outside of the minecraft window
+4. Open a command terminal (taskbar icon), or  [CTRL]+[ALT]+[T]
+5. Type "cd Desktop"       (change directory to desktop)
+6. Type "ls"               (show the files within)
+7. Type "cd minecraft-pi"  (now you are in the python - minecraft programs folder)
+8. Type "ls"               (to see the names of the programs)
+9. Type "python template.py" (to test the connection - you should see a message in minecraft)
+
+
+Quick and very basic terminal commands for use with this:
+
+ls                             = list directory (show contents)
+ls [name-of-folder]            = list a more specific directory
+cd [name-of-folder]            = change directory (move forward one folder)
+cd ..                          = change back to the previous directory
+python [name-of-file.py]       = run a python program - must end in .py
+idle [name-of-file.py]         = edit a python program with IDLE
+
+
+Make your own huge names:
+
+1. Open or edit maketextbig.py in IDLE (idle maketextbig.py) or right click the file and 
+edit with IDLE. 
+
+2. Scroll to the red comment where I wrote about changing the text file
+
+3. You are going to make your own HUGE picture and the filename.txt will go into the code
+and replace demo.txt
+
+4. Keep the python file open and minimise it for now (maketextbig.py)
+
+5. Create a new text file
+
+6. We are going to represent minecraft blocks with different letters.
+s = stone block
+g = glass block
+t = tnt explosives blocks
+x = wood clocks
+try to make a shape in your text file using the above letters
+
+7. Save your new text art file as (myhugetext.txt)
+
+8 Open up the python file you minimised (maketextbig.py) and replace the filename demo.txt 
+on line 51 for your new filename (myhugetext.txt) then save it.
+
+9. When you run this program with minecraft open you will see your new artwork in the game! 
+
+
+
